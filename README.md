@@ -144,9 +144,9 @@ int result =  accumulate(matrix.begin(), matrix.end(), 0, lambda);
 
 
 Beautiful example and usage :
-Leetcode-1577 (My Approach - https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/discuss/1305961/C%2B-(A-very-simple-Two-Sum-like-approach)
+Leetcode-1577 (A-very-simple-Two-Sum-like-approach)
 
-Leetcode-1572 (My Approach - https://leetcode.com/problems/matrix-diagonal-sum/discuss/3498479/Using-C%2B%2B-STL-%3A-accumulate)
+Leetcode-1572 
 
 ```
 
